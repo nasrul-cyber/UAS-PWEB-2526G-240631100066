@@ -55,8 +55,6 @@ Berikut adalah dokumentasi antarmuka dari sistem KasKita:
 ### 3. Halaman Edit / Pembaruan Data
 ![Edit Data](img/screenshot_edit.png)
 
-*(Catatan: Pastikan Anda telah mengambil tangkapan layar (screenshot) aplikasi Anda saat berjalan di localhost dan menyimpannya ke dalam folder `img/` sesuai nama file di atas agar gambar muncul di halaman GitHub).*
-
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi secara Lokal
